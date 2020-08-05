@@ -1,3 +1,14 @@
+## Screenshots from the Web
+![img (1)](https://user-images.githubusercontent.com/58616380/89414250-4c90bc80-d754-11ea-954e-62461501a1d0.png)
+![img (2)](https://user-images.githubusercontent.com/58616380/89414261-51ee0700-d754-11ea-9851-5dc5efaaaacb.png)
+![img (3)](https://user-images.githubusercontent.com/58616380/89414266-53b7ca80-d754-11ea-8b0d-cd1b236a139b.png)
+![img (4)](https://user-images.githubusercontent.com/58616380/89414271-54e8f780-d754-11ea-89ff-163bd7c27f5d.png)
+![img (5)](https://user-images.githubusercontent.com/58616380/89414274-561a2480-d754-11ea-8335-2fa021c1b854.png)
+![img (6)](https://user-images.githubusercontent.com/58616380/89414276-574b5180-d754-11ea-808f-bf167e15578f.png)
+![img (7)](https://user-images.githubusercontent.com/58616380/89414278-57e3e800-d754-11ea-9d41-6048ce722c46.png)
+![img (8)](https://user-images.githubusercontent.com/58616380/89414283-59151500-d754-11ea-9488-af296fe4eae6.png)
+![img (9)](https://user-images.githubusercontent.com/58616380/89414285-59adab80-d754-11ea-9afc-dd68bbcbd8aa.png)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -80,4 +91,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # Day3 -Tugas 10
 Arkademy Bootcamp Test Online Fullstack Mobile Tugas 10
+
 >>>>>>> 0342238f382db6a9598a5644b8595d3d112741c7
