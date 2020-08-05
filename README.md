@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/irfanhfzh/Arkademy-fm-18-Tugas-10)](https://repl.it/github/irfanhfzh/Arkademy-fm-18-Tugas-10)
+
 ## Screenshots from the Web
 ![img (1)](https://user-images.githubusercontent.com/58616380/89414250-4c90bc80-d754-11ea-954e-62461501a1d0.png)
 ![img (2)](https://user-images.githubusercontent.com/58616380/89414261-51ee0700-d754-11ea-9851-5dc5efaaaacb.png)
